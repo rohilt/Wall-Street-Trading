@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Wall-Street-Trading/static/css/main.14c9579b.chunk.css",
+    "main.js": "/Wall-Street-Trading/static/js/main.8812dd62.chunk.js",
+    "main.js.map": "/Wall-Street-Trading/static/js/main.8812dd62.chunk.js.map",
+    "runtime-main.js": "/Wall-Street-Trading/static/js/runtime-main.4b376709.js",
+    "runtime-main.js.map": "/Wall-Street-Trading/static/js/runtime-main.4b376709.js.map",
+    "static/js/2.f42041c8.chunk.js": "/Wall-Street-Trading/static/js/2.f42041c8.chunk.js",
+    "static/js/2.f42041c8.chunk.js.map": "/Wall-Street-Trading/static/js/2.f42041c8.chunk.js.map",
+    "static/js/3.b729dabc.chunk.js": "/Wall-Street-Trading/static/js/3.b729dabc.chunk.js",
+    "static/js/3.b729dabc.chunk.js.map": "/Wall-Street-Trading/static/js/3.b729dabc.chunk.js.map",
+    "index.html": "/Wall-Street-Trading/index.html",
+    "static/css/main.14c9579b.chunk.css.map": "/Wall-Street-Trading/static/css/main.14c9579b.chunk.css.map",
+    "static/js/2.f42041c8.chunk.js.LICENSE.txt": "/Wall-Street-Trading/static/js/2.f42041c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b376709.js",
+    "static/js/2.f42041c8.chunk.js",
+    "static/css/main.14c9579b.chunk.css",
+    "static/js/main.8812dd62.chunk.js"
+  ]
+}
